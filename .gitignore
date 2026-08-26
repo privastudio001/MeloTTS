@@ -9,3 +9,6 @@ build/
 
 *.zip
 *.wav
+
+G_zh.pth
+guga.onnx
